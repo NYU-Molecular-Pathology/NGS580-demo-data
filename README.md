@@ -1,6 +1,6 @@
 # NGS580-demo-data
 
-Sample datasets for testing usage with the NGS580 target exome NGS analysis pipeline. Generated from NextGen Sequencing on Illumina NextSeq platform.
+Sample datasets for testing usage with the NGS580 target exome NGS analysis pipeline. Generated on Illumina NextSeq platform.
 
 ## Samples
 
