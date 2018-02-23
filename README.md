@@ -24,6 +24,8 @@ Sample datasets for testing usage with the NGS580 target exome NGS analysis pipe
 
 - `samples...[tsv|csv]`: samplesheets describing samples and groupings, for use with pipeline testing
 
+- `*.fastq.gz`: sequencing reads
+
 ## Full Download
 
 Full dataset is too large to host on GitHub (14GB). To download it, run the following command:
